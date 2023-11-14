@@ -1,0 +1,21 @@
+.verde{
+    background-color: green;
+}
+
+.vermelho{
+    background-color: red;
+    color: white;
+}
+
+body{
+    background-image: url(./img/Carro.avif);
+    background-size: cover ;
+    background-position: no-repeat ;
+
+
+}
+
+label{
+    color: white;
+    font-size: larger;
+}
